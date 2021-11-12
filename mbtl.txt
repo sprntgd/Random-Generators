@@ -1487,6 +1487,8 @@ AirWave
 AirWay
 AirWoman
 Airy
+AIf
+AIs
 Al
 Alchemists
 AllEdge
@@ -1701,6 +1703,8 @@ BeIn
 BeJewel
 BeKnight
 Bel
+BeIon
+BeIs
 BeLady
 BeLies
 BeLike
@@ -1806,6 +1810,7 @@ Bossy
 Bothy
 BowAt
 BowHunter
+BowIs
 Bowl
 BowLike
 BowMan
@@ -1897,6 +1902,7 @@ CauseWay
 Causey
 CaveAt
 Caved
+CaveIs
 Cavel
 CaveLike
 CaveMan
@@ -2181,6 +2187,8 @@ Dof
 Dog
 DoGate
 Doh
+DoIce
+DoIs
 Dol
 DollArise
 DollHouse
@@ -2301,6 +2309,8 @@ Ef
 Eh
 Eina
 Eine
+EIf
+EIs
 El
 Elbows
 Electronica
@@ -2409,6 +2419,7 @@ Fantastics
 FarAnd
 Fard
 Fare
+FarIs
 Farl
 Farm
 Faro
@@ -2771,6 +2782,7 @@ HouseBreaker
 Housed
 HouseGuest
 HouseHold
+HouseIs
 HouseKeeper
 Housel
 HouseMaid
@@ -3144,6 +3156,8 @@ Mee
 Meg
 Megabytes
 MeIn
+MeIon
+MeIs
 Mel
 Melancholiac
 Melancholias
@@ -3231,6 +3245,7 @@ MoonStrike
 MoonWard
 Moony
 Moratoriums
+MoreIs
 Morel
 MoreOver
 Mores
@@ -3383,6 +3398,7 @@ NoUp
 NoUs
 Novices
 NoWay
+NowIs
 Nowl
 Nown
 Nows
@@ -3463,6 +3479,7 @@ OrDo
 Ores
 Orf
 Origins
+OrIon
 Ors
 Ort
 Os
@@ -4063,6 +4080,7 @@ Sharks
 Shea
 SheAs
 Shed
+SheIf
 Shent
 Sheols
 SheRoot
@@ -4114,6 +4132,7 @@ SingleTree
 SisterLike
 Sisters
 Sized
+SizeIs
 Sizel
 Sizer
 Sizes
@@ -4178,6 +4197,8 @@ Softs
 Softy
 Sog
 Soh
+SoIon
+SoIs
 Sol
 SoLand
 SoldierLike
@@ -4419,6 +4440,7 @@ ThanKing
 Thans
 TheBe
 Thee
+TheIf
 TheIn
 Them
 TheMe
