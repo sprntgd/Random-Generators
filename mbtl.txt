@@ -217,6 +217,8 @@ Annihilate
 Anniversary
 Anti
 Anywhere
+AOKO
+AOZAKI
 Apathetic
 Apocalypse
 Apostle
@@ -5726,6 +5728,9 @@ $japaneseword
 青い
 蒼い
 葵
+青子
+蒼崎
+蒼崎青子
 青天井
 垢
 紅い
@@ -5808,6 +5813,8 @@ $japaneseword
 アメジスト
 荒神
 嵐
+有間
+有間都古
 ありがとう
 或
 アルク
@@ -6631,6 +6638,7 @@ $japaneseword
 使途
 死徒
 死闘
+死徒ノエル
 死神
 支配
 師範
@@ -7834,6 +7842,7 @@ $japaneseword
 水面
 ミニオン
 ミハイル
+都古
 ミラクル
 ミリオン
 魅了
